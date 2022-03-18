@@ -1,5 +1,5 @@
 ### Hi there 👋
-This account is created for my school projects.
+This account is created for my school projects for SE-373 Mobile Programming Course.
 
 <!--
 **mu-se373-200704035/MU-SE373-200704035** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
